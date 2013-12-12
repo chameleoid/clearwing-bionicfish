@@ -1,0 +1,36 @@
+{
+	"name": "clearwing-bionicfish",
+	"description": "Bionic fish plugin for Clearwing",
+	"version": "0.0.1",
+	"homepage": "https://github.com/rummik/clearwing-bionicfish",
+	"author": {
+		"name": "rummik",
+		"email": "r@9k1.us"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/rummik/clearwing-bionicfish.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rummik/clearwing-bionicfish/issues"
+	},
+	"licenses": [
+		{
+			"type": "MPL",
+			"url": "https://github.com/rummik/clearwing-bionicfish/blob/master/LICENSE-MPL"
+		}
+	],
+	"main": "lib/bionicfish",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"keywords": [
+		"irc",
+		"client",
+		"bot",
+		"clearwing",
+		"bionic",
+		"fish",
+		"clearwing-plugin"
+	]
+}
